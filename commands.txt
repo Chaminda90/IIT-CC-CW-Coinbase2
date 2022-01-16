@@ -1,4 +1,4 @@
-docker build . -t chaminda90/node-web-app .
+docker build -t chaminda90/node-web-app
 
 docker images
 
